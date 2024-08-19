@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <!-- ********** A ********** -->
-          <a herf="https://www.anaconda.com" target="_black"><img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" alt="anaconda" height="60"></a>    
+          <a herf="https://www.anaconda.com" target="_black"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" height="60"></a>
 <!-- ********** B ********** -->
 <!-- ********** C ********** -->
 <!-- ********** D ********** -->
