@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 <p align="left">
 <!-- ********** A ********** -->
-          <a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" height="80"/> </a>
+          <a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" height="80"/></a>
 <!-- ********** B ********** -->
 <!-- ********** C ********** -->
 <!-- ********** D ********** -->
-          <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" height="80"/> </a>
+          <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" height="80"/></a>
 <!-- ********** E ********** -->
 <!-- ********** F ********** -->
 <!-- ********** G ********** -->
@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 <!-- ********** N ********** -->
 <!-- ********** O ********** -->
 <!-- ********** P ********** -->
-          <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="80"/> </a>
+          <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="80"/></a>
 <!-- ********** Q ********** -->
 <!-- ********** R ********** -->
 <!-- ********** S ********** -->
 <!-- ********** T ********** -->
 <!-- ********** U ********** -->
-          <a href="https://ubuntu.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" height="80"/> </a>
+          <a href="https://ubuntu.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" height="80"/></a>
 <!-- ********** V ********** -->
 <!-- ********** W ********** -->
 <!-- ********** X ********** -->
