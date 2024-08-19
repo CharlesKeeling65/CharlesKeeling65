@@ -1,5 +1,9 @@
-## Hi there 👋
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+## 👋 About Me
+
+
+          
 <!--
 **CharlesKeeling65/CharlesKeeling65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +20,15 @@ Here are some ideas to get you started:
 -->
 ## Github Activity
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CharlesKeeling65&theme=merko&custom_title=CharlesKeeling65%20Activity&hide_border=true&point=FFFFFF&days=50)](https://github.com/CharlesKeeling65)
+
+## Languages & Tools
+
+
+<a herf="https://www.python.org" target="_black"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="60"></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />          
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+          
+          
+          
+          
