@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ## Languages & Tools
 
-
-<a herf="https://www.python.org" target="_black"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="60"></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />          
-<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-          
+<p align="left"> 
+          <a herf="https://www.python.org" target="_black"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="60"></a>
+          <a herf="https://www.anaconda.com" target="_black"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" height="60"></a>       
+          <a herf="https://ubuntu.com" target="_black"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" height="60"></a>
+          <a herf="https://www.docker.com" target="_black"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" height="60"></a>
+</p>
           
           
           
