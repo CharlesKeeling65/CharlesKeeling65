@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 👾 Languages & Tools
 
-<p align="left">
+<p>
 <!-- ********** A ********** -->
           <a herf="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" height="70"/> </a>
 <!-- ********** B ********** -->
