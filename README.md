@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p>
 <!-- ********** A ********** -->
-          <a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" height="75"/> </a>
+          <a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" height="70"/> </a>
 <!-- ********** B ********** -->
 <!-- ********** C ********** -->
 <!-- ********** D ********** -->
