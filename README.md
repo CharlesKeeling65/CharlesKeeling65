@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 👾 Languages & Tools
 
-<p>
+<p align="left">
 <!-- ********** A ********** -->
           <a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" height="80"/> </a>
 <!-- ********** B ********** -->
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 💻 IDE
-<p>
+<p align="left">
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="80"/> </a>
 </p>
 
