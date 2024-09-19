@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CharlesKeeling65&theme=merko&custom_title=CharlesKeeling65%20Activity&hide_border=true&point=FFFFFF&days=50)](https://github.com/CharlesKeeling65)
 
 ## 👾 Languages & Tools
-<!--
+<div style="display:none">
 <p align="left">
 <!-- ********** A ********** -->
           <a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" height="80"/></a>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <!-- ********** X ********** -->
 <!-- ********** Y ********** -->
 <!-- ********** Z ********** -->
-</p>
+</p></div>
 
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,docker,anaconda,python)](https://skillicons.dev)
 
