@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=northword&count_private=true&show_icons=true&icon_color=0366d6" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesKeeling65&count_private=true&show_icons=true&icon_color=0366d6" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=northword&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKeeling65&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## 📈 Github Activity
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 👾 Languages & Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,docker,anaconda,python,vscode,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,apple,docker,anaconda,python,vscode,blender)](https://skillicons.dev)
 
 
           
