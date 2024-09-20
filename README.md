@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Charles K.
+## 👋 Hi, I'm [Wang Yubo](https://github.com/CharlesKeeling65).
 
-
+- **Nanjing University**, graduate student, major in **Environmental Science**
           
 <!--
 **CharlesKeeling65/CharlesKeeling65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 👾 Languages & Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,apple,docker,anaconda,python,vscode,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,apple,windows,docker,anaconda,python,vscode,blender)](https://skillicons.dev)
 
 
           
