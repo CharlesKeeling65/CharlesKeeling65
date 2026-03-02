@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesKeeling65&count_private=true&show_icons=true&icon_color=0366d6" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKeeling65&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img height=200 align="center"
+src="https://github-readme-stats.vercel.app/api?username=CharlesKeeling65&show_icons=true&icon_color=0366d6&cache_seconds=21600" />
+<img height=200 align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKeeling65&layout=compact&langs_count=8&card_width=320&cache_seconds=21600" />
 
 ## 📈 Github Activity
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CharlesKeeling65&theme=merko&custom_title=CharlesKeeling65%20Activity&hide_border=true&point=FFFFFF&days=50)](https://github.com/CharlesKeeling65)
