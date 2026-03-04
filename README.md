@@ -68,11 +68,21 @@ Major in <b>Environmental Science</b>
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CharlesKeeling65&theme=tokyonight"/>
 </p>
 
-<p align="center">
-          <img height="140em" src="https://helio-github-stats.vercel.app/api?username=CharlesKeeling65&show_icons=true"/>
-          <img height="140em" src="https://github-streak-stats-ruby.vercel.app/?user=CharlesKeeling65"/>
-          <img height="140em" src="https://helio-github-stats.vercel.app/api/top-langs?username=CharlesKeeling65&layout=compact"/>
-</p>
+<table>
+<tr>
+<td width="35%">
+<img src="https://helio-github-stats.vercel.app/api?username=CharlesKeeling65&show_icons=true" width="100%"/>
+</td>
+
+<td width="37%">
+<img src="https://github-streak-stats-ruby.vercel.app/?user=CharlesKeeling65" width="100%"/>
+</td>
+
+<td width="28%">
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=CharlesKeeling65&layout=compact" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
